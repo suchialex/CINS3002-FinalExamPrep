@@ -87,7 +87,7 @@
 
 <details>
   <summary>
-    ✅ Part 3. Dictionary Manipulation - (20 pts)
+    ✅ Part 3. Dictionary Manipulation - (30 pts)
   </summary>
 
   - Unpickle the dictionary stored in employees.bin in the datafiles folder
