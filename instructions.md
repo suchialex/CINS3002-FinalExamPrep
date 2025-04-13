@@ -2,6 +2,13 @@
 
 <details>
   <summary>
+    ✅ Download [pretty_print](https://github.com/suchialex/pretty-print/blob/main/suchi_pretty_print.py) module
+  </summary>
+
+</details>
+
+<details>
+  <summary>
     ✅ Part 1. While loop and built-in functions - (10 pts)
   </summary>
 
