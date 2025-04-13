@@ -2,8 +2,10 @@
 
 <details>
   <summary>
-    ✅ Download [pretty_print](https://github.com/suchialex/pretty-print/blob/main/suchi_pretty_print.py) module
+    ✅ Download pretty_print module
   </summary>
+
+  [pretty_print](https://github.com/suchialex/pretty-print/blob/main/suchi_pretty_print.py)
 
 </details>
 
