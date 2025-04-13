@@ -13,7 +13,7 @@
   - write a while loop to
     - generate a random integer between two user input values
     - you must do validation to only allow integer values
-    - if this random number is the radius of a circle, calculate the area of the circle. The formula for area is ![](../.img/area.JPG). pi = 3.142
+    - if this random number is the radius of a circle, calculate the area of the circle. This is [the formula](https://github.com/suchialex/CINS3002-FinalExamPrep/blob/main/area.JPG) for area. pi = 3.142
     - Print `The area of circle with radius {random number} m is {calculated area rounded to three decimal places} sq. m.`
     - until user presses x or X
 </details>
@@ -27,7 +27,7 @@
   - write a while loop to
     - generate a random float between two user input values
     - you must do validation to only allow floats greater than 0
-    - if this number is the side of an equilateral triangle, calculate the area. The formula to calculate area is ![](../.img/area2.JPG)
+    - if this number is the side of an equilateral triangle, calculate the area. The formula to calculate area is ![](area2.JPG)
     - print `The area of the triangle with side {random number} ft. is {calculated area rounded to two decimal places} sq. ft.`
     - until user presses 0
   </details>
