@@ -183,7 +183,7 @@
     Practice Example 2: Products Database
   </summary>
   
-  1. GET CONNECTION TO datafiles/products.db
+  1. GET CONNECTION TO [products.db](https://github.com/suchialex/CINS3002-FinalExamPrep/blob/main/products.db)
   2. GET CURSOR for the above connection  
      ## products table has 4 columns 
   `ProdID, ProdName, ProdPrice, ProdQty`  
