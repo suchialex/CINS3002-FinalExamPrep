@@ -13,7 +13,8 @@
   - write a while loop to
     - generate a random integer between two user input values
     - you must do validation to only allow integer values
-    - if this random number is the radius of a circle, calculate the area of the circle. The formula to calculate area is ![](area.JPG) pi = 3.142
+    - if this random number is the radius of a circle, calculate the area of the circle. The formula to calculate area is ![](area.JPG)
+    - pi = 3.142
     - Print `The area of circle with radius {random number} m is {calculated area rounded to three decimal places} sq. m.`
     - until user presses x or X
 </details>
@@ -31,8 +32,6 @@
     - print `The area of the triangle with side {random number} ft. is {calculated area rounded to two decimal places} sq. ft.`
     - until user presses 0
   </details>
-
-  
 </details>
 
 
@@ -112,3 +111,102 @@
   
   - Pickle to modified_employees.bin the datafiles folder
 </details>
+
+<details>
+  <summary>
+    ✅ Part 4. Classes and Inheritance - (20 pts)
+  </summary>
+
+  In classes.py
+  - Write a class named `Person`
+    - Data attributes are
+      - name
+      - address
+      - telephone number
+    - Write init to initialize these as protected attributes
+    - Write get and set methods for all these attributes
+  - Write a class named `Customer` that is a subclass of the `Person` class.
+    - The Customer class has additional data attributes
+      - Customer number
+      - MailingList (this is a Boolean data attribute indicating whether the customer wishes to be on a mailing list)
+    - Call parent init to initialize name, address, telephone number
+    - Write init to initialize cutomer number and mailing list as private attributes
+    - Write str to return all five data attributes in a good format
+
+  In functions.py inside part5()
+  - Create an object of Customer with values
+    - John Cena
+    - 2456 Topeka Dr, Springfield, IL
+    - 8567975421
+    - 4567
+    - True
+  - Change the name to John Rivera using the appropriate method
+  - Print whether the above customer is signed up for mailing list using the appropriate get method
+  - Print all the data regarding this customer
+</details>
+
+
+
+<details>
+  <summary>
+    ✅ Part 5. Database Programming - (20 pts)
+  </summary>
+
+<details>
+  <summary>
+    Practice Example 1: Books Database
+  </summary>
+
+  1. GET CONNECTION TO datafiles/books.db
+  2. GET CURSOR for the above connection
+  3. CREATING TABLE if it doesn't exist
+  Table Name is  Books  
+  Has four columns  
+  ISBN is integer primary key  
+  Book Title is String  
+  Book Price is Float  
+  Book Author is String  
+  4. INSERT DATA INTO THE TABLE using date obtained from the following input statements
+```python
+  title = input("Enter the title: ")
+  price = float(input("Enter the Price: "))
+  author = input("Enter the Author: ")
+```
+  5. COMMIT CHANGES
+  6. CLOSE CONNECTION
+  
+</details>
+
+
+<details>
+  <summary>
+    Practice Example 2: Products Database
+  </summary>
+  
+  1. GET CONNECTION TO datafiles/products.db
+  2. GET CURSOR for the above connection  
+     ## products table has 4 columns 
+  `ProdID, ProdName, ProdPrice, ProdQty`  
+  
+  3. RETRIEVE ALL ROWS AND PRINT THEM IN A TABLE (use your own format to fit data)  
+    a. In Ascending Order of the Product Name  
+    b. In Descending Order of the Product Price
+  4. RETRIEVE ROWS THAT FIT A CRITERIA AND PRINT THEM  
+    a. All products costing more than $30  
+    b. All Products (Get just product names) with quantity more than 60
+  5. AGGREGATE FUNCTIONS  
+    a. Print the average price of the products in the store  
+    b. Print how many total products are in the store  
+    c. Print the total price of all the products in the library  
+    d. Print the name and price of the most expensive product in the store (needs query inside a query, such operations will be for Bonus points only)  
+    e. Print the name and price of the least expensive product in the store (needs query inside a query, such operations will be for Bonus points only)
+  6. UPDATE AND PRINT HOW MANY ROWS WERE AFFECTED  
+    a. Change product quantity to 10 if the product quantity is less than 10
+  7. DELETE AND PRINT HOW MANY ROWS WERE AFFECTED  
+    a. Delete products with price more than $90  
+  8. COMMIT CHANGES
+  9. CLOSE CONNECTION
+
+</details>
+</details>
+
