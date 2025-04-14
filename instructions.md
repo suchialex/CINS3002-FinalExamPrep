@@ -147,11 +147,11 @@
   </summary>
 
   <details>
-  <summary>
-    Practice Example: 1
-  </summary>
+    <summary>
+      Practice Example 1:
+    </summary>
 
-    - In classes.py
+   - In classes.py
     - Write a class named `Person`
       - Data attributes are
         - name
@@ -179,6 +179,7 @@
     - Print whether the above customer is signed up for mailing list using the appropriate get method
     - Print all the data regarding this customer
   </details>
+
 </details>
 
 
