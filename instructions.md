@@ -71,7 +71,7 @@
   </summary>
 
   - Code this in function named, say, `p2_ex1()`
-  - given the products.txt file
+  - given the [products.txt](https://github.com/suchialex/CINS3002-FinalExamPrep/blob/main/products.txt) file
   - Product Name, Product ID, Product Price, Product Category, Product Quantity one in each line, in that order
   - user will enter Product ID
   - if product ID present,
@@ -90,7 +90,7 @@
   </summary>
 
   - Code this in function named, say, `p2_ex2()`
-  - given the products2.txt file
+  - given the [products2.txt](https://github.com/suchialex/CINS3002-FinalExamPrep/blob/main/products2.txt) file
   - Product Name, Product ID, Product Price, Product Category, Product Quantity in that order, separated by commas
   - user will enter Product ID
   - if product ID present,
@@ -110,7 +110,7 @@
   </summary>
 
   - Code this in function named, say, `part3()`
-  - Unpickle the dictionary stored in employees.bin in the datafiles folder
+  - Unpickle the dictionary stored in [employees.bin](https://github.com/suchialex/CINS3002-FinalExamPrep/blob/main/employees.bin) in the datafiles folder
   - Practice the following operations. You will get a different dictionary in the exam and only five operations to perform
     
   1. Change employee's name ID 04568 to Roger Stevens
