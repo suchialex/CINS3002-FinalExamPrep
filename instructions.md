@@ -228,7 +228,7 @@
      ## products table has 4 columns 
   `ProdID, ProdName, ProdPrice, ProdQty`  
   
-  3. Read the file products.csv and insert the data into the database in the correct order
+  3. Read the file products2.txt and extract only the necessary data in the correct order and insert into the products table
   4. RETRIEVE ALL ROWS AND PRINT THEM IN A TABLE (use your own format to fit data)  
     a. In Ascending Order of the Product Name  
     b. In Descending Order of the Product Price
