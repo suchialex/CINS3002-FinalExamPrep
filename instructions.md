@@ -244,7 +244,7 @@
     a. Change product quantity to 10 if the product quantity is less than 10
   8. DELETE AND PRINT HOW MANY ROWS WERE AFFECTED  
     a. Delete products with price more than $90
-  9. Read the file products2.txt and extract only the necessary data in the correct order and insert into the products table
+  9. Read the file products2.txt and extract only the necessary data in the correct order and insert into the products table (the file has data elements in this order Product Name, Product ID, Product Price, Product Category, Product Quantity) 
   10. COMMIT CHANGES
   11. CLOSE CONNECTION
 
