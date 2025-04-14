@@ -166,7 +166,6 @@
       - Call parent init to initialize name, address, telephone number
       - Write init to initialize cutomer number and mailing list as private attributes
       - Write str to return all five data attributes in a good format
-  
     - In `functions.py`
     - Code this in function named, say, `p4_ex1()`
     - Create an object of Customer with values
