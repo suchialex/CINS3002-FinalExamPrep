@@ -1,2 +1,2 @@
-Sony Headset,2201,15.25,Electronics,2345
-Samsung Keyboard,2202,25.99,Electronics,6745
+Sony Headset,2201,15.25,Electronics,23
+Samsung Keyboard,2202,25.99,Electronics,67
