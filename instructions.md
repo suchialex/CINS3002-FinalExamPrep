@@ -228,24 +228,25 @@
      ## products table has 4 columns 
   `ProdID, ProdName, ProdPrice, ProdQty`  
   
-  3. RETRIEVE ALL ROWS AND PRINT THEM IN A TABLE (use your own format to fit data)  
+  3. Read the file products.csv and insert the data into the database in the correct order
+  4. RETRIEVE ALL ROWS AND PRINT THEM IN A TABLE (use your own format to fit data)  
     a. In Ascending Order of the Product Name  
     b. In Descending Order of the Product Price
-  4. RETRIEVE ROWS THAT FIT A CRITERIA AND PRINT THEM  
+  5. RETRIEVE ROWS THAT FIT A CRITERIA AND PRINT THEM  
     a. All products costing more than $30  
     b. All Products (Get just product names) with quantity more than 60
-  5. AGGREGATE FUNCTIONS  
+  6. AGGREGATE FUNCTIONS  
     a. Print the average price of the products in the store  
     b. Print how many total products are in the store  
     c. Print the total price of all the products in the library  
     d. Print the name and price of the most expensive product in the store (needs query inside a query, such operations will be for Bonus points only)  
     e. Print the name and price of the least expensive product in the store (needs query inside a query, such operations will be for Bonus points only)
-  6. UPDATE AND PRINT HOW MANY ROWS WERE AFFECTED  
+  7. UPDATE AND PRINT HOW MANY ROWS WERE AFFECTED  
     a. Change product quantity to 10 if the product quantity is less than 10
-  7. DELETE AND PRINT HOW MANY ROWS WERE AFFECTED  
+  8. DELETE AND PRINT HOW MANY ROWS WERE AFFECTED  
     a. Delete products with price more than $90  
-  8. COMMIT CHANGES
-  9. CLOSE CONNECTION
+  9. COMMIT CHANGES
+  10. CLOSE CONNECTION
 
 </details>
 </details>
