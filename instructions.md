@@ -237,7 +237,7 @@
   6. AGGREGATE FUNCTIONS  
     a. Print the average price of the products in the store  
     b. Print how many total products are in the store  
-    c. Print the total price of all the products in the library  
+    c. Print the total price of all the products in the store  
     d. Print the name and price of the most expensive product in the store (needs query inside a query, such operations will be for Bonus points only)  
     e. Print the name and price of the least expensive product in the store (needs query inside a query, such operations will be for Bonus points only)
   7. UPDATE AND PRINT HOW MANY ROWS WERE AFFECTED  
