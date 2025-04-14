@@ -151,7 +151,7 @@
     Practice Example: 1
   </summary>
 
-    In classes.py
+    - In classes.py
     - Write a class named `Person`
       - Data attributes are
         - name
