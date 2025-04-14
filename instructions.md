@@ -65,6 +65,7 @@
       ✅ Part 2. Files, Functions and Exceptions - (20 pts)
     </summary>
 <details>
+  
   <summary>
     Practice Example 1:
   </summary>
