@@ -145,33 +145,39 @@
     ✅ Part 4. Classes and Inheritance - (20 pts)
   </summary>
 
-  In classes.py
-  - Write a class named `Person`
-    - Data attributes are
-      - name
-      - address
-      - telephone number
-    - Write init to initialize these as protected attributes
-    - Write get and set methods for all these attributes
-  - Write a class named `Customer` that is a subclass of the `Person` class.
-    - The Customer class has additional data attributes
-      - Customer number
-      - MailingList (this is a Boolean data attribute indicating whether the customer wishes to be on a mailing list)
-    - Call parent init to initialize name, address, telephone number
-    - Write init to initialize cutomer number and mailing list as private attributes
-    - Write str to return all five data attributes in a good format
+  <details>
+  <summary>
+    Practice Example: 1
+  </summary>
 
-  In functions.py
-  - Code this in function named, say, `part4()`
-  - Create an object of Customer with values
-    - John Cena
-    - 2456 Topeka Dr, Springfield, IL
-    - 8567975421
-    - 4567
-    - True
-  - Change the name to John Rivera using the appropriate method
-  - Print whether the above customer is signed up for mailing list using the appropriate get method
-  - Print all the data regarding this customer
+    In classes.py
+    - Write a class named `Person`
+      - Data attributes are
+        - name
+        - address
+        - telephone number
+      - Write init to initialize these as protected attributes
+      - Write get and set methods for all these attributes
+    - Write a class named `Customer` that is a subclass of the `Person` class.
+      - The Customer class has additional data attributes
+        - Customer number
+        - MailingList (this is a Boolean data attribute indicating whether the customer wishes to be on a mailing list)
+      - Call parent init to initialize name, address, telephone number
+      - Write init to initialize cutomer number and mailing list as private attributes
+      - Write str to return all five data attributes in a good format
+  
+    In functions.py
+    - Code this in function named, say, `p4_ex1()`
+    - Create an object of Customer with values
+      - John Cena
+      - 2456 Topeka Dr, Springfield, IL
+      - 8567975421
+      - 4567
+      - True
+    - Change the name to John Rivera using the appropriate method
+    - Print whether the above customer is signed up for mailing list using the appropriate get method
+    - Print all the data regarding this customer
+  </details>
 </details>
 
 
