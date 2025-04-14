@@ -228,7 +228,6 @@
      ## products table has 4 columns 
   `ProdID, ProdName, ProdPrice, ProdQty`  
   
-  3. Read the file products2.txt and extract only the necessary data in the correct order and insert into the products table
   4. RETRIEVE ALL ROWS AND PRINT THEM IN A TABLE (use your own format to fit data)  
     a. In Ascending Order of the Product Name  
     b. In Descending Order of the Product Price
@@ -244,9 +243,10 @@
   7. UPDATE AND PRINT HOW MANY ROWS WERE AFFECTED  
     a. Change product quantity to 10 if the product quantity is less than 10
   8. DELETE AND PRINT HOW MANY ROWS WERE AFFECTED  
-    a. Delete products with price more than $90  
-  9. COMMIT CHANGES
-  10. CLOSE CONNECTION
+    a. Delete products with price more than $90
+  9. Read the file products2.txt and extract only the necessary data in the correct order and insert into the products table
+  10. COMMIT CHANGES
+  11. CLOSE CONNECTION
 
 </details>
 </details>
