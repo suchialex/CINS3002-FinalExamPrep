@@ -151,7 +151,7 @@
       Practice Example 1:
     </summary>
 
-   - In classes.py
+   - In `classes.py`
     - Write a class named `Person`
       - Data attributes are
         - name
@@ -167,7 +167,7 @@
       - Write init to initialize cutomer number and mailing list as private attributes
       - Write str to return all five data attributes in a good format
   
-    In functions.py
+    - In `functions.py`
     - Code this in function named, say, `p4_ex1()`
     - Create an object of Customer with values
       - John Cena
