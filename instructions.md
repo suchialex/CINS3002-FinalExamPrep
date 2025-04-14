@@ -11,6 +11,20 @@
 
 <details>
   <summary>
+    ✅ Create PyCharm Project
+  </summary>
+
+  - Create main.py
+  - Create a folder called `finalprep`
+  - Inside the folder, create classes.py, functions.py and new directory called `datafiles`
+  - All data files in the instructions below must be downloaded to this directory
+  - In functions.py, write each of the below task in a separate function
+  - Import the necessary modules in main.py and call each function as needed
+
+</details>
+
+<details>
+  <summary>
     ✅ Part 1. While loop and built-in functions - (10 pts)
   </summary>
 
@@ -18,7 +32,8 @@
     <summary>
       Practice Example 1:
     </summary>
- 
+
+  - Code this in function named, say, `p1_ex1()`
   - write a while loop to
     - generate a random integer between two user input values
     - you must do validation to only allow integer values
@@ -33,7 +48,8 @@
     <summary>
       Practice Example 2:
     </summary>
-  
+
+  - Code this in function named, say, `p1_ex2()`
   - write a while loop to
     - generate a random float between two user input values
     - you must do validation to only allow floats greater than 0
@@ -52,7 +68,8 @@
   <summary>
     Practice Example 1:
   </summary>
-  
+
+  - Code this in function named, say, `p2_ex1()`
   - given the products.txt file
   - Product Name, Product ID, Product Price, Product Category, Product Quantity one in each line, in that order
   - user will enter Product ID
@@ -71,6 +88,7 @@
     Practice Example 2:
   </summary>
 
+  - Code this in function named, say, `p2_ex2()`
   - given the products2.txt file
   - Product Name, Product ID, Product Price, Product Category, Product Quantity in that order, separated by commas
   - user will enter Product ID
@@ -90,6 +108,7 @@
     ✅ Part 3. Dictionary Manipulation - (30 pts)
   </summary>
 
+  - Code this in function named, say, `part3()`
   - Unpickle the dictionary stored in employees.bin in the datafiles folder
   - Practice the following operations. You will get a different dictionary in the exam and only five operations to perform
     
@@ -142,7 +161,8 @@
     - Write init to initialize cutomer number and mailing list as private attributes
     - Write str to return all five data attributes in a good format
 
-  In functions.py inside part5()
+  In functions.py
+  - Code this in function named, say, `part4()`
   - Create an object of Customer with values
     - John Cena
     - 2456 Topeka Dr, Springfield, IL
@@ -165,6 +185,8 @@
   <summary>
     Practice Example 1: Books Database
   </summary>
+
+  - Code this in function named, say, `p5_ex1()`
 
   1. GET CONNECTION TO datafiles/books.db
   2. GET CURSOR for the above connection
@@ -191,6 +213,8 @@
   <summary>
     Practice Example 2: Products Database
   </summary>
+
+  - Code this in function named, say, `p5_ex2()`
   
   1. GET CONNECTION TO [products.db](https://github.com/suchialex/CINS3002-FinalExamPrep/blob/main/products.db)
   2. GET CURSOR for the above connection  
