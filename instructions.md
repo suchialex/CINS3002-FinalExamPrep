@@ -165,18 +165,18 @@
         - MailingList (this is a Boolean data attribute indicating whether the customer wishes to be on a mailing list)
       - Call parent init to initialize name, address, telephone number
       - Write init to initialize cutomer number and mailing list as private attributes
-      - Write str to return all five data attributes in a good format
+      - Write str to return all five data attributes in a good format  
     - In `functions.py`
-    - Code this in function named, say, `p4_ex1()`
-    - Create an object of Customer with values
-      - John Cena
-      - 2456 Topeka Dr, Springfield, IL
-      - 8567975421
-      - 4567
-      - True
-    - Change the name to John Rivera using the appropriate method
-    - Print whether the above customer is signed up for mailing list using the appropriate get method
-    - Print all the data regarding this customer
+      - Code this in function named, say, `p4_ex1()`
+      - Create an object of Customer with values
+        - John Cena
+        - 2456 Topeka Dr, Springfield, IL
+        - 8567975421
+        - 4567
+        - True
+      - Change the name to John Rivera using the appropriate method
+      - Print whether the above customer is signed up for mailing list using the appropriate get method
+      - Print all the data regarding this customer
   </details>
 
 </details>
