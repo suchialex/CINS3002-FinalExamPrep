@@ -125,7 +125,6 @@
   8. For anyone who has a certification that starts with OCPL1, add a title called Oracle Developer
   10. Ask the user for a certificate code and print the names of all the employees that have that certificate. Must be case-insensitive. If name is not available, print the emp ID
   11. Print the name and salaries of all the employees who are working on the project Spring Valley. Choose a nice format and alignment so they are displayed in a tabular fashion (name, left aligned over 20, salary right aligned over 8. If either name or salary not available, print -
-  Hint: must use end in print statement
   12. Ask user for a new certification code and date taken and add that for emp ID 4571. Cert code must be all uppercase. Assume user will give good value for data in YYYY-MM-DD format
   13. Add a new title - Developer - for an employee name entered by the user, do a case-insensitive comparison 
   14. For all the employees working on Mayfield Inc, give a 25% raise in their salary. If anyone doesn't have a salary, set their salary at 65000
