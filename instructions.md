@@ -130,7 +130,7 @@
   14. For all the employees working on Mayfield Inc, give a 25% raise in their salary. If anyone doesn't have a salary, set their salary at 65000
   15. Add a new certification OCPL1 for all employees in the IT department (IT is case-insensitive, could be it, It, iT) taken on March 10, 2023
   16. Print the name, salary and department of all the employees with more than one certification (in a tabular fashion), if name or salary or dept not available, print -
-  17. Ask the user for an employee name and a title that he wants to add to this employee and add it. First letter of each word of name and title must be uppercase
+  17. Ask the user for an employee name and a title that he wants to add to this employee and add it. First letter of each word of title must be uppercase
   18. For anyone who has a SCJP certification, add a title called Java Developer, must be case-insensitive search
   19. Check the dictionary for any employee who might be missing a name, and if missing, print their ID and ask the user to set a name. Make sure that name doesn't have any special characters except space and first letter of each word must be uppercase. (You may implement it in a function named validate_name, or just a while loop)
   20. Print the names of employees with salaries more than 50000, skip employees that don't have a name
