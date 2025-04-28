@@ -122,8 +122,7 @@
   5. Add a new certification OCPL1 for emp 4569 taken on March 10, 2023
   6. Assign the project Compete to Roger Stevens (you don't know the emp ID)
   7. For Neal Forrester, remove any previous titles and add Casual Wage Worker as the only title
-  8. Compete project is taken over by Spring Valley, so change all occurrences of that project with the new name
-  9. For anyone who has a certification that starts with OCPL1, add a title called Oracle Developer
+  8. For anyone who has a certification that starts with OCPL1, add a title called Oracle Developer
   10. Ask the user for a certificate code and print the names of all the employees that have that certificate. Must be case-insensitive. If name is not available, print the emp ID
   11. Print the name and salaries of all the employees who are working on the project Spring Valley. Choose a nice format and alignment so they are displayed in a tabular fashion (name, left aligned over 20, salary right aligned over 8. If either name or salary not available, print -
   Hint: must use end in print statement
