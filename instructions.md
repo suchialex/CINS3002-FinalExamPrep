@@ -119,9 +119,9 @@
   4. For all the programmers, give a salary **increment** of 5000
   Must be case in-sensitive, i.e. you have to look for Programmer or PROGRAMMER or programmer as title 
   Hint: you may have to use list comprehension to convert all the titles to lowercase
-  5. Add a new certification OCPL1 for emp 04569 taken on March 10, 2023
+  5. Add a new certification OCPL1 for emp 4569 taken on March 10, 2023
   6. Assign the project Compete to Roger Stevens (you don't know the emp ID)
-  7. For Riva Malik, remove any previous titles and add Casual Wage Worker as the only title
+  7. For Neal Forrester, remove any previous titles and add Casual Wage Worker as the only title
   8. Compete project is taken over by Spring Valley, so change all occurrences of that project with the new name
   9. For anyone who has a certification that starts with OCPL1, add a title called Oracle Developer
   10. Ask the user for a certificate code and print the names of all the employees that have that certificate. Must be case-insensitive. If name is not available, print the emp ID
