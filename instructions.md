@@ -113,7 +113,7 @@
   - Unpickle the dictionary stored in [employees.bin](https://github.com/suchialex/CINS3002-FinalExamPrep/blob/main/employees.bin) in the datafiles folder
   - Practice the following operations. You will get a different dictionary in the exam and only five operations to perform
     
-  1. Change employee's name ID 04568 to Roger Stevens
+  1. Change employee's name ID 4568 to Roger Stevens
   2. For emp ID 04567 add a new certification EVA-L2 taken on March 22, 2023
   3. Add a new title - SGA President - for Riva Malik (you don't know her emp ID)
   4. For all the programmers, give a salary **increment** of 5000
