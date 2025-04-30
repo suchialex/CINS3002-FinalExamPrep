@@ -157,7 +157,8 @@
         - telephone number
       - Write init to initialize these as protected attributes
       - Write get and set methods for all these attributes
-    - Write a class named `Customer` that is a subclass of the `Person` class.
+
+     - Write a class named `Customer` that is a subclass of the `Person` class.
       - The Customer class has additional data attributes
         - Customer number
         - MailingList (this is a Boolean data attribute indicating whether the customer wishes to be on a mailing list)
