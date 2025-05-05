@@ -54,7 +54,7 @@
     - get user input for the side of an equilateral triangle
     - you must do validation to only allow floats greater than 0
     - if this number is the side of an equilateral triangle, calculate the area. The formula to calculate area is ![](area2.JPG)
-    - print `The area of the triangle with side {random number} ft. is {calculated area rounded to two decimal places} sq. ft.`
+    - print `The area of the triangle with side {side} ft. is {calculated area rounded to two decimal places} sq. ft.`
     - until user presses 0
   </details>
 </details>
