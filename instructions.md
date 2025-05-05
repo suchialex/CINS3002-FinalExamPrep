@@ -51,7 +51,7 @@
 
   - Code this in function named, say, `p1_ex2()`
   - write a while loop to
-    - generate a random float between two user input values
+    - get user input for the side of an equilateral triangle
     - you must do validation to only allow floats greater than 0
     - if this number is the side of an equilateral triangle, calculate the area. The formula to calculate area is ![](area2.JPG)
     - print `The area of the triangle with side {random number} ft. is {calculated area rounded to two decimal places} sq. ft.`
